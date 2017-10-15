@@ -1,1 +1,1 @@
-# coinhive
+# mining
